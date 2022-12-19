@@ -3,7 +3,7 @@
 ## Introduction: 
 Le projet consiste à récupérer le score en temps réel d'un match de football grâce au webscraping et de déclencher un relais à chaque fois que l'équipe choisie marque un but.
 
-Site web utilisé : https://www.foot-direct.com/live/
+Site web utilisé : https://www.foot-direct.com
 
 ## Structure du projet
 ```
