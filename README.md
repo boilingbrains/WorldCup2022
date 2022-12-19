@@ -10,7 +10,7 @@ Site web utilisé : https://www.foot-direct.com
 📦project
 │   📜README.md
 │   📜miniature.jpg
-└───📜WorldCup2022.py
+└───📜worldCup2022.py
 ```
 
 ## Explications
